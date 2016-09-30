@@ -11,6 +11,20 @@ IMDb toy project
     * [1.5 Programming language used](#programming-language-used)
 * [2. Functions](#functions)
     * [2.1 List of functions](#list-of-functions)
+    * [2.2 Function description](#function-description)
+    * [2.3 Functional analysis](#functional-analysis)
+    * [2.4 Non-functional analysis](#non-functional-analysis)
+* [3. Requirements](#requirements)
+    * [3.1 Functional requirements](#functional-requirements)
+    * [3.2 UI requirements](#ui-requirements)
+    * [3.3 Usability](#usability)
+* [4. Performance](#performance)
+    * [4.1 Capacity](#capacity)
+    * [4.2 Availability](#availability)
+    * [4.3 Latency](#latency)
+    * [4.4 Monitoring](#monitoring)
+    * [4.5 Maintenance](#maintenance)
+    * [4.6 System interface](#system-interface)
 
 ## Introduction
 
@@ -51,7 +65,11 @@ __Function:SentimentAnalysis__ | Create a function to perform a **Sentiment Anal
 
 #### Programming language used
 
-We choose to use R as programming language for this project.
+We choose to use R as programming language for this project, in combination with the following additional packages:
+
+* __Data Importing__: readr, RSQLite
+* __Data Manipulation__: dplyr
+* __Data Visualization__: ggplot2
 
 ## Functions
 
@@ -69,3 +87,29 @@ We choose to use R as programming language for this project.
 #### Functions description
 
 The function `get_history()` allows to retrieve
+
+#### Functional analysis
+
+#### Non-functional analysis
+
+## Requirements
+
+#### Functional requirements
+
+#### UI requirements
+
+#### Usability
+
+## Performance
+
+#### Capacity
+
+#### Availability
+
+#### Latency
+
+#### Monitoring
+
+#### Maintenance
+
+#### System interface
