@@ -11,7 +11,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Project Overview
 
-The final project will be a program which uses various parameters to select and propose a movie that you haven't seen yet. You can catalogue your previous movies watched to help the program to better select the results.
+The program uses a set of parameters, to cluster and classify movies and propose one that you haven't seen yet. It is possible to catalogue previous seen movies to help the program to better select the results.
+
+The project have a long-term goal, we have just started the descriptive analysis of the huge dataset of **IMDb** (*more than 12Gb of compressed data*) and we are still in the **Data Cleansing** stage.
+
+## Project Roadmap
+
+Goal | Description | Status
+--- | --- | ---
+Import | Import the following dataset: **actors.csv**, **actresses.csv**, **directors.csv**, **editors.csv**, **genres.csv**, **movies.csv**, **plots.csv**, **running-time.csv** | 30%
 
 ## R Functions list
 
@@ -27,7 +35,8 @@ The final project will be a program which uses various parameters to select and 
     
 ## Functions description
 
-```{r cars}
+The function `get_history()` allows to retrieve 
+```{r }
 
 ```
 
