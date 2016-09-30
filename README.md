@@ -3,26 +3,26 @@ IMDb toy project
 
 ## Table of contents
 
-* [1. Introduction](#1.-introduction)
-    * [1.1 Project overview](#1.1-project-overview)
+* [1. Introduction](#introduction)
+    * [1.1 Project overview](#project-overview)
     * [1.2 Project features](#project-features)
     * [1.3 Purpose of the project](#purpose-of-the-project)
     * [1.4 Project roadmap](#project-roadmap)
     * [1.5 Programming language used](#programming-language-used)
-* [2. Functions](#2.-functions)
+* [2. Functions](#functions)
     * [2.1 List of functions](#list-of-functions)
 
-## 1. Introduction
+## Introduction
 
 A Project started in Luiss for Machine Learning course in MABDA2016 class, by [__Francesco Pastore__](https://github.com/fgpastore) & [__Mario Catuogno__](https://github.com/MarioCatuogno).
 
-## 1.1 Project overview
+#### Project overview
 
 The program uses a set of parameters, to cluster and classify movies and propose one that you haven't seen yet. It is possible to catalogue previous seen movies to help the program to better select the results.
 
 The project have a long-term goal, we have just started the descriptive analysis of the huge dataset of **IMDb** (*more than 12Gb of compressed data*) and we are still in the **Data Cleansing** stage.
 
-#### 1.2 Project features
+#### Project features
 
 * The program uses clustering algorithm to create subset of movies based on genre/actor/year (*in the future also sentiment adjectives*)
 * The software make a classification of movies based on your preferences (*assigned score*)
@@ -32,11 +32,11 @@ The project have a long-term goal, we have just started the descriptive analysis
 * Similar to Netflix "*Chosen for you*" but not limited by the Netflix catalogue
 * The software uses a cleansed database from IMDB uploaded on the web for future updates (*weekly/monthly probably*)
 
-#### 1.3 Purpose of the project
+#### Purpose of the project
 
 The purpose of the project is to develop a tool which helps the user in choosing a not-seen-yet movie which he can enjoy with a certain probability.
 
-#### 1.4 Project roadmap
+#### Project roadmap
 
 Goal | Description | Status
 --- | --- | ---
@@ -49,13 +49,13 @@ __Function:Cluster__ | Create a clustering function to create **k** clusters | 0
 __Function:Classification__ | Create a classification function for movie clusters | 0%
 __Function:SentimentAnalysis__ | Create a function to perform a **Sentiment Analysis** on movie plots | 0%
 
-#### 1.5 Programming language used
+#### Programming language used
 
 We choose to use R as programming language for this project.
 
-## 2. Functions
+## Functions
 
-#### 2.1 List of functions
+#### List of functions
 * get_history
     * intial_history
     * suggestion_history
@@ -66,6 +66,6 @@ We choose to use R as programming language for this project.
 * sentiment_complete_analysis
     * sentiment_cluster
 
-## Functions description
+#### Functions description
 
 The function `get_history()` allows to retrieve
