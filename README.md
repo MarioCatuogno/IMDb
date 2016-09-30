@@ -3,13 +3,13 @@ IMDb toy project
 
 ## Table of contents
 
-* [1. Introduction](#introduction)
-    * [1.1 Project overview](#project-overview)
+* [1. Introduction](#1.-introduction)
+    * [1.1 Project overview](#1.1-project-overview)
     * [1.2 Project features](#project-features)
     * [1.3 Purpose of the project](#purpose-of-the-project)
     * [1.4 Project roadmap](#project-roadmap)
     * [1.5 Programming language used](#programming-language-used)
-* [2. Functions](#functions)
+* [2. Functions](#2.-functions)
     * [2.1 List of functions](#list-of-functions)
 
 ## 1. Introduction
