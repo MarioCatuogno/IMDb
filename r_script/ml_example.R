@@ -51,6 +51,8 @@ write_csv(raw_data, "data/clean_data.csv")
 setwd("/Users/mariocatuogno/Dropbox/Github/IMDb")
 ## Import cleansed data
 data <- read.csv("data/clean_data.csv")
+## Check the structure of the dataset
+str(data)
 
 
 

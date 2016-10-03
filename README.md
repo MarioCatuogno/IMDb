@@ -69,9 +69,9 @@ __Function:SentimentAnalysis__ | Create a function to perform a **Sentiment Anal
 
 We choose to use R as programming language for this project, in combination with the following additional packages:
 
-* __Data Importing__: readr, RSQLite
-* __Data Manipulation__: dplyr
-* __Data Visualization__: ggplot2
+* __Data Importing__: `readr`, `RSQLite`
+* __Data Manipulation__: `dplyr`
+* __Data Visualization__: `ggplot2`
 
 ## Functions
 
@@ -126,4 +126,4 @@ In the initial stage of the project the dataset used so far are the following on
 
 Dataset | Size | Records | Variables
 --- | --- | --- | ---
-__actors.csv__ | 1.14GB | 20.152.897 |
+__actors.csv__ | 1.14GB | 20.152.897 | 
