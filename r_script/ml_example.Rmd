@@ -1,0 +1,86 @@
+---
+title: "ml_exercise"
+author: "Mario Catuogno & Francesco Pastore"
+date: "13 September 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+require(readr)
+require(dplyr)
+require(ggplot2)
+```
+
+---
+
+## Project description
+
+For further information about the project, read [here](https://github.com/MarioCatuogno/IMDb).
+
+## Problems with the dataset
+
+The first problem we have faced was the extension of the IMDb database. It is composed of **.list** files which cannot be read and transformed as normal **.csv** files. For the purpose of this exercise we used a subset of movies from IMDb, downloaded from the personal page of one of us, which contains only few variables and few observation.
+
+---
+
+## Import and data cleansing
+
+``` {r 1.1, echo = TRUE, message = FALSE, eval = FALSE}
+## Set working directory
+setwd("/Users/mariocatuogno/Dropbox/Github/IMDb")
+## Import raw data [Package: readr]
+raw_data <- read_csv("data/raw_data.csv")
+```
+The "**raw_data**" dataset, downloaded from IMDb, weights **113KB** and has **526 observation** and **16 variables**. We decided to cleanse the dataset because there were some variables with NAs and others that cannot be used for analysis (e.g. URL variable).
+
+``` {r 1.2, echo = TRUE, message = FALSE, eval = FALSE}
+## Select only "Feature Film" discarding "TV Series" [Package: dplyr]
+raw_data <- raw_data %>%
+  tbl_df %>%
+  filter(`Title type` == "Feature Film")
+## Select and rename columns [Package: dplyr]
+raw_data <- raw_data %>%
+  select(movie_id = const,
+         movie_title = Title,
+         movie_genre = Genres,
+         movie_runtime = `Runtime (mins)`,
+         movie_year = Year,
+         date_release = `Release Date (month/day/year)`,
+         cast_director = Directors,
+         rating_personal = `You rated`,
+         rating_IMDb = `IMDb Rating`,
+         num_votes = `Num. Votes`)
+## Select only the first movie genre as main genre, deleting secondary genres
+raw_data$movie_genre <- gsub(".*,", "", raw_data$movie_genre)
+## Select only the first director as main director, deleting secondary directors
+raw_data$cast_director <- gsub(".*,", "", raw_data$cast_director)
+```
+Then we started the cleansing of the raw dataset. The **raw_data** contained both movies and TVshows, so we decided to consider only movies, deleting TVshows records. The following step was to clean the dataset renaming each variable (*there were some variables with spaces in the name and some with only NA*) and selecting only the ones useful for our project.
+
+`movie_genre` and `cast_director` contained more than one value, so we decided to use only the first argument, using the `gsub()` function. In this way we have only one movie genre and one director for each movie.
+
+``` {r 1.3, echo = TRUE, message = FALSE, eval = FALSE}
+## Save the newly created dataset, to speedup the import process [Package: readr]
+write_csv(raw_data, "data/clean_data.csv")
+```
+Once finished the cleansing process (*the dataset was already clean*), we saved the data frame into a new **.csv** file in order to speed up the importing process.
+
+---
+
+## Data exploration
+
+``` {r 2.1, echo = TRUE, message = FALSE}
+## Set working directory
+setwd("/Users/mariocatuogno/Dropbox/Github/IMDb")
+## Import cleansed data
+data <- read.csv("data/clean_data.csv")
+## Check the structure of the dataset
+str(data)
+```
+For further analysis and exploration we have used the cleansed dataset. Above there is the structure of the data frame. The newly cleansed dataset weights **42KB** and has **507 observation** and **10 variables**.
+
+``` {r 2.2, echo = TRUE, message = FALSE}
+```
+
+
