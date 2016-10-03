@@ -54,6 +54,19 @@ data <- read.csv("data/clean_data.csv")
 ## Check the structure of the dataset
 str(data)
 
+#################################################################################################################
+
+### DATA VISUALIZATION
+
+# Create a data frame with frequencies for each movie genre
+movie_genre_freq <- data %>% 
+  group_by(movie_genre) %>% 
+  summarise(count = n()) %>%
+  arrange(desc(count))
+
+## Number of movies by genre
+p1 <- ggplot(data = movie_genre_freq, aes(x = movie_genre, y = count)) + geom_bar(stat = "identity") + coord_flip()
+plot(p1)
 
 
 
