@@ -25,6 +25,8 @@ IMDb toy project
     * [4.4 Monitoring](#monitoring)
     * [4.5 Maintenance](#maintenance)
     * [4.6 System interface](#system-interface)
+* [5. Data](#data)
+    * [5.1 Dataset description](#dataset-description)
 
 ## Introduction
 
@@ -34,7 +36,7 @@ A Project started in Luiss for Machine Learning course in MABDA2016 class, by [_
 
 The program uses a set of parameters, to cluster and classify movies and propose one that you haven't seen yet. It is possible to catalogue previous seen movies to help the program to better select the results.
 
-The project have a long-term goal, we have just started the descriptive analysis of the huge dataset of **IMDb** (*more than 12Gb of compressed data*) and we are still in the **Data Cleansing** stage.
+The project have a long-term goal, we have just started the descriptive analysis of the huge dataset of **IMDb**, and we are still in the **Data Cleansing** stage.
 
 #### Project features
 
@@ -113,3 +115,15 @@ The function `get_history()` allows to retrieve
 #### Maintenance
 
 #### System interface
+
+## Data
+
+The data is downloaded from the [IMDb website](http://www.imdb.com/interfaces), through the **ftp** link. There are 52 files for a total of 12.458.029.182 bytes (**12.46GB** of compressed data).
+
+#### Dataset description
+
+In the initial stage of the project the dataset used so far are the following ones:
+
+Dataset | Size | Records | Variables
+--- | --- | --- | ---
+__actors.csv__ | 1.14GB | 20.152.897 |
