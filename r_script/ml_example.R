@@ -12,23 +12,19 @@ require(ggplot2)
 
 #################################################################################################################
 
-### IMPORTING
+### IMPORT AND DATA CLEANSING
 
 ## Set working directory
 setwd("/Users/mariocatuogno/Dropbox/Github/IMDb")
-## Import example data
-data <- read_csv("data/example_data.csv")
+## Import raw data [Package: readr]
+raw_data <- read_csv("data/raw_data.csv")
 
-#################################################################################################################
-
-### DATA CLEANSING
-
-## Select only "Feature Film" discarding "TV Series"
-data <- data %>%
+## Select only "Feature Film" discarding "TV Series" [Package: dplyr]
+raw_data <- raw_data %>%
   tbl_df %>%
   filter(`Title type` == "Feature Film")
-## Select and rename columns
-data <- data %>%
+## Select and rename columns [Package: dplyr]
+raw_data <- raw_data %>%
   select(movie_id = const,
          movie_title = Title,
          movie_genre = Genres,
@@ -39,10 +35,22 @@ data <- data %>%
          rating_personal = `You rated`,
          rating_IMDb = `IMDb Rating`,
          num_votes = `Num. Votes`)
-## Rename columns
+## Select only the first movie genre as main genre, deleting secondary genres
+raw_data$movie_genre <- gsub(".*,", "", raw_data$movie_genre)
+## Select only the first director as main director, deleting secondary directors
+raw_data$cast_director <- gsub(".*,", "", raw_data$cast_director)
+## Save the newly created dataset, to speedup the import process [Package: readr]
+write_csv(raw_data, "data/clean_data.csv")
 
 
+#################################################################################################################
 
+### IMPORT AND DATA EXPLORATION
+
+## Set working directory
+setwd("/Users/mariocatuogno/Dropbox/Github/IMDb")
+## Import cleansed data
+data <- read.csv("data/clean_data.csv")
 
 
 
