@@ -1,5 +1,5 @@
 ---
-title: "ml_exercise"
+title: "ml_example"
 author: "Mario Catuogno & Francesco Pastore"
 date: "13 September 2016"
 output: html_document
