@@ -1,0 +1,508 @@
+movie_id,movie_title,movie_genre,movie_runtime,movie_year,date_release,cast_director,rating_personal,rating_IMDb,num_votes
+tt3040964,The Jungle Book, fantasy,106,2016,2016-04-04,Jon Favreau,6,7.6,141095
+tt0918940,The Legend of Tarzan, romance,110,2016,2016-06-27,David Yates,4,6.4,65533
+tt2277860,Finding Dory, family,97,2016,2016-06-08, Angus MacLane,7,7.7,69243
+tt0144084,American Psycho, drama,102,2000,2000-01-21,Mary Harron,6,7.6,361970
+tt2267968,Kung Fu Panda 3, fantasy,95,2016,2016-01-16, Jennifer Yuh,6,7.2,71044
+tt1386697,Suicide Squad, sci_fi,123,2016,2016-08-01,David Ayer,5,6.7,218847
+tt3385516,X-Men: Apocalypse, sci_fi,144,2016,2016-05-09,Bryan Singer,7,7.2,188822
+tt0803096,Warcraft, fantasy,123,2016,2016-05-24,Duncan Jones,6,7.2,140047
+tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,comedy,95,1964,1964-01-29,Stanley Kubrick,6,8.5,346512
+tt3498820,Captain America: Civil War, sci_fi,147,2016,2016-04-12, Joe Russo,8,8.0,322564
+tt2381991,The Huntsman: Winter's War, fantasy,114,2016,2016-03-29,Cedric Nicolas-Troyan,5,6.1,48348
+tt0119488,L.A. Confidential, thriller,138,1997,1997-05-14,Curtis Hanson,6,8.3,418784
+tt2948356,Zootopia, mystery,108,2016,2016-02-11, Rich Moore,8,8.1,200855
+tt1663202,The Revenant, western,156,2015,2015-12-16,Alejandro G. Iñárritu,7,8.1,428269
+tt2975590,Batman v Superman: Dawn of Justice, sci_fi,151,2016,2016-03-12,Zack Snyder,5,6.8,403257
+tt1431045,Deadpool, sci_fi,108,2016,2016-01-21,Tim Miller,8,8.1,513719
+tt3460252,The Hateful Eight, western,187,2015,2015-12-07,Quentin Tarantino,8,7.9,286973
+tt0475290,"Hail, Caesar!", mystery,106,2016,2016-02-01, Joel Coen,5,6.4,67482
+tt1596363,The Big Short, history,130,2015,2015-11-12,Adam McKay,7,7.8,197717
+tt2446980,Joy, drama,124,2015,2015-12-13,David O. Russell,5,6.6,79732
+tt2488496,Star Wars: The Force Awakens, sci_fi,138,2015,2015-12-14,J.J. Abrams,9,8.2,584518
+tt3659388,The Martian, sci_fi,144,2015,2015-09-11,Ridley Scott,7,8.0,494484
+tt2267998,Gone Girl, thriller,149,2014,2014-09-26,David Fincher,6,8.1,581819
+tt2379713,Spectre, thriller,148,2015,2015-10-26,Sam Mendes,6,6.8,283061
+tt2096673,Inside Out, fantasy,95,2015,2015-05-18, Ronnie Del Carmen,9,8.3,359529
+tt0078748,Alien, sci_fi,117,1979,1979-05-25,Ridley Scott,7,8.5,571033
+tt0121766,Star Wars: Episode III - Revenge of the Sith, sci_fi,140,2005,2005-05-15,George Lucas,8,7.6,525731
+tt1587310,Maleficent, romance,97,2014,2014-05-28,Robert Stromberg,4,7.0,255583
+tt0208092,Snatch, crime,104,2000,2000-08-23,Guy Ritchie,7,8.3,607887
+tt0066921,A Clockwork Orange, sci_fi,136,1971,1971-12-19,Stanley Kubrick,6,8.3,565536
+tt0078788,Apocalypse Now, war,153,1979,1979-05-19,Francis Coppola,7,8.5,455518
+tt1979388,The Good Dinosaur, fantasy,93,2015,2015-11-10,Peter Sohn,8,6.8,66819
+tt0086879,Amadeus, music,160,1984,1984-09-06,Milos Forman,6,8.3,274067
+tt2452042,The Peanuts Movie, family,88,2015,2015-10-19,Steve Martino,5,7.1,29504
+tt0478970,Ant-Man, sci_fi,117,2015,2015-06-29,Peyton Reed,7,7.4,325366
+tt2381249,Mission: Impossible - Rogue Nation, thriller,131,2015,2015-07-23,Christopher McQuarrie,7,7.4,238272
+tt0129167,The Iron Giant, sci_fi,86,1999,1999-07-31,Brad Bird,8,8.0,130089
+tt2637276,Ted 2,comedy,115,2015,2015-06-25,Seth MacFarlane,6,6.4,121648
+tt0369610,Jurassic World, thriller,124,2015,2015-05-29,Colin Trevorrow,6,7.0,425387
+tt0089218,The Goonies, family,114,1985,1985-06-07,Richard Donner,9,7.8,180341
+tt0162222,Cast Away, romance,143,2000,2000-12-07,Robert Zemeckis,5,7.7,398811
+tt1245526,RED, thriller,111,2010,2010-09-29,Robert Schwentke,6,7.1,240850
+tt1321870,Gangster Squad, thriller,113,2013,2013-01-07,Ruben Fleischer,4,6.7,174836
+tt0844471,Cloudy with a Chance of Meatballs, sci_fi,90,2009,2009-09-16, Chris Miller,5,7.0,154454
+tt0087088,Così parlò Bellavista,comedy,105,1984,1984-10-06,Luciano De Crescenzo,8,7.3,360
+tt1392190,Mad Max: Fury Road, thriller,120,2015,2015-05-07,George Miller,7,8.1,568979
+tt2692904,Locke,drama,85,2013,2013-09-02,Steven Knight,4,7.1,92783
+tt2802144,Kingsman: The Secret Service, thriller,129,2014,2014-12-13,Matthew Vaughn,7,7.8,405567
+tt2395427,Avengers: Age of Ultron, sci_fi,141,2015,2015-04-13,Joss Whedon,7,7.5,473574
+tt3907734,La scuola più bella del mondo,comedy,NA,2014,2014-11-13,Luca Miniero,2,5.0,256
+tt0102510,The Naked Gun 2½: The Smell of Fear, crime,85,1991,1991-06-28,David Zucker,6,6.8,83992
+tt2820852,Furious 7, thriller,137,2015,2015-03-16,James Wan,6,7.2,282249
+tt1661199,Cinderella, romance,105,2015,2015-02-13,Kenneth Branagh,6,7.0,106140
+tt0102926,The Silence of the Lambs, thriller,118,1991,1991-01-30,Jonathan Demme,6,8.6,899829
+tt0455944,The Equalizer, thriller,132,2014,2014-09-07,Antoine Fuqua,4,7.2,233390
+tt0119643,Meet Joe Black, romance,178,1998,1998-11-02,Martin Brest,6,7.1,170409
+tt0258000,Panic Room, thriller,112,2002,2002-03-18,David Fincher,5,6.8,208061
+tt2245084,Big Hero 6, sci_fi,102,2014,2014-10-23, Chris Williams,8,7.9,284848
+tt2562232,Birdman or (The Unexpected Virtue of Ignorance), romance,119,2014,2014-08-27,Alejandro G. Iñárritu,7,7.8,403227
+tt1837703,The Fifth Estate, thriller,128,2013,2013-09-05,Bill Condon,4,6.2,29664
+tt2179136,American Sniper, war,133,2014,2014-11-11,Clint Eastwood,5,7.3,330264
+tt2980516,The Theory of Everything, romance,123,2014,2014-09-07,James Marsh,5,7.7,271374
+tt3374966,The Mafia Kills Only in Summer, crime,90,2013,2013-11-27,Pierfrancesco Diliberto,7,7.2,4464
+tt0106918,The Firm, thriller,154,1993,1993-06-30,Sydney Pollack,6,6.8,89704
+tt0816692,Interstellar, sci_fi,169,2014,2014-10-26,Christopher Nolan,7,8.6,949311
+tt2004420,Neighbors,comedy,97,2014,2014-03-08,Nicholas Stoller,3,6.4,222077
+tt2310332,The Hobbit: The Battle of the Five Armies, fantasy,144,2014,2014-12-01,Peter Jackson,8,7.5,360061
+tt0993846,The Wolf of Wall Street, drama,180,2013,2013-12-17,Martin Scorsese,6,8.2,796208
+tt0121765,Star Wars: Episode II - Attack of the Clones, sci_fi,142,2002,2002-05-12,George Lucas,7,6.7,469530
+tt0117665,Sleepers, thriller,147,1996,1996-08-28,Barry Levinson,7,7.5,155670
+tt2870708,Wish I Was Here, drama,106,2014,2014-01-18,Zach Braff,5,6.7,29835
+tt1291150,Teenage Mutant Ninja Turtles, sci_fi,101,2014,2014-08-03,Jonathan Liebesman,2,5.9,170569
+tt1790864,The Maze Runner, thriller,113,2014,2014-09-11,Wes Ball,6,6.8,316362
+tt2872732,Lucy, thriller,89,2014,2014-07-25,Luc Besson,5,6.4,332213
+tt0831387,Godzilla, thriller,123,2014,2014-05-08,Gareth Edwards,6,6.5,304074
+tt2278388,The Grand Budapest Hotel, drama,99,2014,2014-02-06,Wes Anderson,8,8.1,485937
+tt2109248,Transformers: Age of Extinction, sci_fi,165,2014,2014-06-19,Michael Bay,4,5.7,244857
+tt1408101,Star Trek Into Darkness, sci_fi,132,2013,2013-05-02,J.J. Abrams,6,7.8,400669
+tt1981115,Thor: The Dark World, sci_fi,112,2013,2013-10-22,Alan Taylor,7,7.1,419568
+tt1245492,This Is the End, fantasy,107,2013,2013-06-03, Seth Rogen,3,6.7,313995
+tt2557490,A Million Ways to Die in the West, western,116,2014,2014-05-15,Seth MacFarlane,5,6.1,137764
+tt1213663,The World's End, sci_fi,109,2013,2013-07-10,Edgar Wright,5,7.0,188329
+tt1979320,Rush, sport,123,2013,2013-09-02,Ron Howard,5,8.1,317552
+tt1210819,The Lone Ranger, western,150,2013,2013-06-22,Gore Verbinski,4,6.5,183346
+tt2140373,Saving Mr. Banks, music,125,2013,2013-10-20,John Lee Hancock,8,7.5,119057
+tt1327773,Lee Daniels' The Butler, drama,132,2013,2013-08-05,Lee Daniels,6,7.2,88596
+tt1234721,RoboCop, thriller,117,2014,2014-01-30,José Padilha,3,6.2,184523
+tt0169547,American Beauty, romance,122,1999,1999-09-08,Sam Mendes,6,8.4,831983
+tt1877832,X-Men: Days of Future Past, thriller,132,2014,2014-05-10,Bryan Singer,7,8.0,520365
+tt1872181,The Amazing Spider-Man 2, sci_fi,142,2014,2014-04-10,Marc Webb,6,6.7,324862
+tt1843866,Captain America: The Winter Soldier, sci_fi,136,2014,2014-03-13, Joe Russo,7,7.8,505670
+tt1253863,300: Rise of an Empire, war,102,2014,2014-03-04,Noam Murro,6,6.2,227675
+tt2234155,The Internship,comedy,119,2013,2013-05-29,Shawn Levy,5,6.3,161087
+tt0116282,Fargo, thriller,98,1996,1996-03-08,Joel Coen,6,8.1,459946
+tt1490017,The Lego Movie, fantasy,100,2014,2014-02-01, Christopher Miller,7,7.8,249537
+tt1170358,The Hobbit: The Desolation of Smaug, fantasy,161,2013,2013-12-02,Peter Jackson,7,7.9,489133
+tt0359950,The Secret Life of Walter Mitty, romance,114,2013,2013-10-05,Ben Stiller,8,7.3,238801
+tt1535108,Elysium, thriller,109,2013,2013-08-07,Neill Blomkamp,5,6.6,341856
+tt1650554,Kick-Ass 2, crime,103,2013,2013-08-14,Jeff Wadlow,7,6.6,205346
+tt1821694,RED 2, thriller,116,2013,2013-07-18,Dean Parisot,6,6.7,126388
+tt1980209,Pain & Gain, drama,129,2013,2013-04-11,Michael Bay,5,6.5,162677
+tt0816711,World War Z, thriller,116,2013,2013-06-02,Marc Forster,8,7.0,470291
+tt1663662,Pacific Rim, sci_fi,131,2013,2013-07-01,Guillermo del Toro,6,7.0,384717
+tt0258463,The Bourne Identity, thriller,119,2002,2002-06-06,Doug Liman,7,7.9,414490
+tt0944835,Salt, thriller,100,2010,2010-07-19,Phillip Noyce,5,6.4,247583
+tt0372183,The Bourne Supremacy, thriller,108,2004,2004-07-16,Paul Greengrass,6,7.8,354353
+tt0770828,Man of Steel, sci_fi,143,2013,2013-06-10,Zack Snyder,6,7.1,556614
+tt0796366,Star Trek, sci_fi,127,2009,2009-04-06,J.J. Abrams,6,8.0,509545
+tt2302755,Olympus Has Fallen, thriller,119,2013,2013-03-18,Antoine Fuqua,5,6.5,205703
+tt1905041,Fast & Furious 6, thriller,130,2013,2013-05-07,Justin Lin,6,7.1,303936
+tt1013752,Fast & Furious, thriller,107,2009,2009-03-12,Justin Lin,6,6.7,205663
+tt0095705,The Naked Gun: From the Files of Police Squad!, crime,85,1988,1988-12-02,David Zucker,6,7.6,115978
+tt1300854,Iron Man 3, sci_fi,130,2013,2013-04-18,Shane Black,7,7.2,563520
+tt0119738,My Best Friend's Wedding, romance,105,1997,1997-06-20,P.J. Hogan,6,6.3,99234
+tt0335438,Starsky & Hutch, crime,101,2004,2004-02-26,Todd Phillips,4,6.1,121461
+tt0364725,Dodgeball: A True Underdog Story, sport,92,2004,2004-06-18,Rawson Marshall Thurber,6,6.7,186856
+tt0454921,The Pursuit of Happyness, drama,117,2006,2006-12-15,Gabriele Muccino,5,8.0,343053
+tt0380510,The Lovely Bones, thriller,135,2009,2009-11-24,Peter Jackson,5,6.7,126111
+tt0343818,"I, Robot", thriller,115,2004,2004-07-15,Alex Proyas,5,7.1,392009
+tt1409024,Men in Black 3, sci_fi,106,2012,2012-05-14,Barry Sonnenfeld,5,6.8,269868
+tt0196229,Zoolander,comedy,90,2001,2001-09-28,Ben Stiller,4,6.6,202850
+tt0448157,Hancock, fantasy,92,2008,2008-06-16,Peter Berg,3,6.4,347665
+tt0120660,Enemy of the State, thriller,132,1998,1998-11-16,Tony Scott,8,7.3,189798
+tt0481499,The Croods, fantasy,98,2013,2013-02-15, Chris Sanders,7,7.3,152314
+tt0118972,The Devil's Own, thriller,111,1997,1997-03-13,Alan J. Pakula,5,6.1,46068
+tt0095174,Frantic, thriller,120,1988,1988-02-16,Roman Polanski,6,6.9,39020
+tt0408345,Firewall, thriller,105,2006,2006-02-02,Richard Loncraine,5,5.8,50395
+tt1045658,Silver Linings Playbook, romance,122,2012,2012-09-08,David O. Russell,8,7.8,539282
+tt0238380,Equilibrium, thriller,107,2002,2002-12-06,Kurt Wimmer,4,7.5,263526
+tt0362227,The Terminal, romance,128,2004,2004-06-09,Steven Spielberg,7,7.3,307494
+tt0118571,Air Force One, thriller,124,1997,1997-07-21,Wolfgang Petersen,5,6.4,147500
+tt0367882,Indiana Jones and the Kingdom of the Crystal Skull, fantasy,122,2008,2008-05-18,Steven Spielberg,6,6.2,336737
+tt0106977,The Fugitive, thriller,130,1993,1993-07-29,Andrew Davis,6,7.8,215459
+tt0186566,Space Cowboys, thriller,130,2000,2000-08-01,Clint Eastwood,3,6.4,60616
+tt0161081,What Lies Beneath, thriller,130,2000,2000-07-21,Robert Zemeckis,5,6.6,99004
+tt0122718,Small Soldiers, sci_fi,108,1998,1998-07-10,Joe Dante,4,6.1,77883
+tt1623205,Oz the Great and Powerful, fantasy,130,2013,2013-02-14,Sam Raimi,6,6.4,176584
+tt0404978,Gambit, crime,89,2012,2012-11-07,Michael Hoffman,4,5.7,18875
+tt0209163,The Mummy Returns, thriller,130,2001,2001-04-29,Stephen Sommers,6,6.3,249735
+tt0167190,Hellboy, sci_fi,122,2004,2004-03-30,Guillermo del Toro,5,6.8,246548
+tt0386588,Hitch, romance,118,2005,2005-02-10,Andy Tennant,5,6.6,246988
+tt0227538,Spy Kids, sci_fi,88,2001,2001-03-18,Robert Rodriguez,4,5.4,85065
+tt0411477,Hellboy II: The Golden Army, sci_fi,120,2008,2008-06-28,Guillermo del Toro,6,7.0,209954
+tt1250777,Kick-Ass, comedy,117,2010,2010-03-12,Matthew Vaughn,8,7.7,439974
+tt0189584,The Big Kahuna, comedy,90,1999,1999-09-16,John Swanbeck,5,6.7,12144
+tt0384680,The Weather Man, drama,102,2005,2005-10-20,Gore Verbinski,4,6.6,69553
+tt0286244,The Triplets of Belleville, drama,78,2003,2003-05-18,Sylvain Chomet,6,7.8,42773
+tt0327247,The Whole Ten Yards, thriller,98,2004,2004-04-07,Howard Deutch,5,5.5,46088
+tt0218967,The Family Man, romance,125,2000,2000-12-12,Brett Ratner,6,6.7,86555
+tt1302011,Kung Fu Panda 2, family,90,2011,2011-05-22,Jennifer Yuh Nelson,6,7.3,185464
+tt0035423,Kate & Leopold, romance,118,2001,2001-12-11,James Mangold,6,6.4,65184
+tt1277953,Madagascar 3: Europe's Most Wanted, family,93,2012,2012-05-18, Tom McGrath,4,6.9,120600
+tt1038919,The Bounty Hunter, romance,110,2010,2010-03-17,Andy Tennant,4,5.5,97617
+tt0082158,Chariots of Fire, sport,125,1981,1981-03-30,Hugh Hudson,6,7.2,40987
+tt0251160,John Q, thriller,116,2002,2002-02-15,Nick Cassavetes,6,7.0,99778
+tt0118998,Doctor Dolittle, fantasy,85,1998,1998-06-13,Betty Thomas,4,5.3,75012
+tt0947810,Green Zone, war,115,2010,2010-02-26,Paul Greengrass,5,6.9,111213
+tt0479952,Madagascar: Escape 2 Africa, family,89,2008,2008-10-30, Tom McGrath,6,6.7,147993
+tt0265459,One Hour Photo, thriller,96,2002,2002-01-13,Mark Romanek,6,6.8,98580
+tt0251075,Evolution, sci_fi,101,2001,2001-06-08,Ivan Reitman,3,6.0,103028
+tt0343135,Along Came Polly, romance,90,2004,2004-01-12,John Hamburg,5,5.9,107581
+tt0081573,Superman II, sci_fi,127,1980,1980-12-04,Richard Lester,6,6.8,77248
+tt0970866,Little Fockers, romance,98,2010,2010-12-22,Paul Weitz,5,5.5,86298
+tt0129290,Patch Adams, romance,115,1998,1998-10-21,Tom Shadyac,5,6.7,81473
+tt1080016,Ice Age: Dawn of the Dinosaurs, family,94,2009,2009-06-26, Mike Thurmeier,6,7.0,168784
+tt0086393,Superman III, sci_fi,125,1983,1983-06-17,Richard Lester,5,4.9,50570
+tt0107798,The Pelican Brief, thriller,141,1993,1993-12-17,Alan J. Pakula,6,6.5,60071
+tt1067106,A Christmas Carol, fantasy,96,2009,2009-11-03,Robert Zemeckis,5,6.8,73526
+tt1521197,Anonymous, thriller,130,2011,2011-09-11,Roland Emmerich,7,6.9,34729
+tt0190138,The Whole Nine Yards, crime,98,2000,2000-02-17,Jonathan Lynn,7,6.7,90996
+tt1007029,The Iron Lady, drama,105,2011,2011-12-26,Phyllida Lloyd,5,6.4,83232
+tt0438097,Ice Age: The Meltdown, fantasy,91,2006,2006-03-29,Carlos Saldanha,5,6.9,196429
+tt0120179,Speed 2: Cruise Control, thriller,121,1997,1997-06-13,Jan de Bont,2,3.7,61018
+tt0181536,Finding Forrester,drama,136,2000,2000-12-20,Gus Van Sant,6,7.3,73384
+tt0110989,Ri¢hie Ri¢h, family,95,1994,1994-12-21,Donald Petrie,5,5.2,50124
+tt0119137,Flubber, sci_fi,93,1997,1997-11-16,Les Mayfield,4,5.2,64360
+tt0110763,The Pagemaster, romance,80,1994,1994-11-23, Joe Johnston,4,5.9,16131
+tt1430626,The Pirates! Band of Misfits, family,88,2012,2012-03-28, Jeff Newitt,6,6.7,37079
+tt2467480,Il principe abusivo,comedy,NA,2013,2013-02-14,Alessandro Siani,5,5.4,1018
+tt0111161,The Shawshank Redemption, drama,142,1994,1994-09-10,Frank Darabont,8,9.3,1711064
+tt0468569,The Dark Knight, thriller,152,2008,2008-07-14,Christopher Nolan,9,9.0,1697804
+tt0241527,Harry Potter and the Sorcerer's Stone, fantasy,152,2001,2001-11-04,Chris Columbus,6,7.5,450932
+tt1375666,Inception, thriller,148,2010,2010-07-08,Christopher Nolan,8,8.8,1488280
+tt0068646,The Godfather, drama,175,1972,1972-03-14,Francis Ford Coppola,8,9.2,1169641
+tt1345836,The Dark Knight Rises, thriller,164,2012,2012-07-16,Christopher Nolan,9,8.5,1159211
+tt0076759,Star Wars: Episode IV - A New Hope, sci_fi,121,1977,1977-05-25,George Lucas,8,8.7,921769
+tt0088763,Back to the Future, sci_fi,116,1985,1985-07-03,Robert Zemeckis,8,8.5,742435
+tt0120815,Saving Private Ryan, war,169,1998,1998-07-24,Steven Spielberg,8,8.6,893185
+tt0361748,Inglourious Basterds, war,153,2009,2009-05-20,Quentin Tarantino,7,8.3,898103
+tt0120915,Star Wars: Episode I - The Phantom Menace, sci_fi,136,1999,1999-05-16,George Lucas,7,6.5,540053
+tt0112573,Braveheart, war,178,1995,1995-05-18,Mel Gibson,6,8.4,745257
+tt0109830,Forrest Gump, drama,142,1994,1994-06-23,Robert Zemeckis,7,8.8,1269729
+tt0416449,300, war,117,2006,2006-12-09,Zack Snyder,8,7.7,613228
+tt0120338,Titanic, romance,194,1997,1997-11-01,James Cameron,6,7.7,801818
+tt0317705,The Incredibles, family,115,2004,2004-10-27,Brad Bird,7,8.0,484548
+tt0407887,The Departed, thriller,151,2006,2006-09-26,Martin Scorsese,6,8.5,884989
+tt0087332,Ghostbusters, fantasy,105,1984,1984-06-07,Ivan Reitman,8,7.8,274803
+tt0482571,The Prestige, thriller,130,2006,2006-10-17,Christopher Nolan,7,8.5,856064
+tt1454029,The Help,drama,146,2011,2011-08-09,Tate Taylor,7,8.1,322844
+tt1853728,Django Unchained, western,165,2012,2012-12-11,Quentin Tarantino,8,8.5,969939
+tt0120737,The Lord of the Rings: The Fellowship of the Ring, fantasy,178,2001,2001-12-10,Peter Jackson,9,8.8,1252665
+tt0114369,Se7en, thriller,127,1995,1995-09-15,David Fincher,6,8.6,1037899
+tt1201607,Harry Potter and the Deathly Hallows: Part 2, mystery,130,2011,2011-07-07,David Yates,8,8.1,550404
+tt0332452,Troy,adventure,163,2004,2004-05-09,Wolfgang Petersen,4,7.2,385738
+tt0099685,Goodfellas, drama,146,1990,1990-09-09,Martin Scorsese,7,8.7,737937
+tt0848228,The Avengers, thriller,143,2012,2012-04-11,Joss Whedon,8,8.1,1008113
+tt0119217,Good Will Hunting,drama,126,1997,1997-12-02,Gus Van Sant,6,8.3,613479
+tt0081505,The Shining, horror,146,1980,1980-05-23,Stanley Kubrick,6,8.4,618520
+tt0114814,The Usual Suspects, thriller,106,1995,1995-01-25,Bryan Singer,8,8.6,749908
+tt1392170,The Hunger Games, thriller,142,2012,2012-03-12,Gary Ross,5,7.3,708140
+tt0116629,Independence Day, sci_fi,145,1996,1996-06-25,Roland Emmerich,6,6.9,434311
+tt0113497,Jumanji, thriller,104,1995,1995-12-15,Joe Johnston,6,6.9,210075
+tt0163651,American Pie,comedy,95,1999,1999-07-09,Paul Weitz,6,7.0,317634
+tt0133093,The Matrix, sci_fi,136,1999,1999-03-24, The Wachowski Brothers,7,8.7,1232480
+tt0499549,Avatar, sci_fi,162,2009,2009-12-10,James Cameron,6,7.9,894941
+tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl, fantasy,143,2003,2003-06-28,Gore Verbinski,7,8.1,818652
+tt0120586,American History X, drama,119,1998,1998-10-30,Tony Kaye,7,8.6,791930
+tt0458339,Captain America: The First Avenger, sci_fi,124,2011,2011-07-19,Joe Johnston,6,6.9,516009
+tt0372784,Batman Begins, adventure,140,2005,2005-05-31,Christopher Nolan,8,8.3,993946
+tt0093409,Lethal Weapon, thriller,110,1987,1987-03-06,Richard Donner,6,7.6,192708
+tt0172495,Gladiator, drama,155,2000,2000-05-01,Ridley Scott,9,8.5,994949
+tt0330373,Harry Potter and the Goblet of Fire, mystery,157,2005,2005-11-06,Mike Newell,6,7.7,390524
+tt1270798,X-Men: First Class, sci_fi,132,2011,2011-05-25,Matthew Vaughn,7,7.8,524132
+tt0209144,Memento, thriller,113,2000,2000-09-05,Christopher Nolan,7,8.5,856692
+tt0246578,Donnie Darko, thriller,113,2001,2001-01-19,Richard Kelly,4,8.1,587494
+tt0145487,Spider-Man, romance,121,2002,2002-04-30,Sam Raimi,6,7.3,550082
+tt1130884,Shutter Island, thriller,138,2010,2010-02-13,Martin Scorsese,7,8.1,798207
+tt0071562,The Godfather: Part II, drama,202,1974,1974-12-12,Francis Ford Coppola,8,9.0,801209
+tt0780504,Drive, drama,100,2011,2011-05-20,Nicolas Winding Refn,6,7.8,437171
+tt0120903,X-Men, sci_fi,104,2000,2000-07-13,Bryan Singer,6,7.4,458019
+tt1446714,Prometheus, sci_fi,124,2012,2012-04-11,Ridley Scott,5,7.0,459783
+tt0363771,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe", fantasy,143,2005,2005-12-07,Andrew Adamson,4,6.9,289316
+tt0187393,The Patriot, war,165,2000,2000-06-27,Roland Emmerich,6,7.1,209452
+tt0120689,The Green Mile, mystery,189,1999,1999-12-06,Frank Darabont,7,8.5,795956
+tt0086250,Scarface, drama,170,1983,1983-12-01,Brian De Palma,8,8.3,544092
+tt0167260,The Lord of the Rings: The Return of the King, fantasy,201,2003,2003-12-01,Peter Jackson,9,8.9,1229873
+tt0097165,Dead Poets Society, drama,128,1989,1989-06-02,Peter Weir,7,8.0,280591
+tt1675434,The Intouchables, drama,112,2011,2011-09-23, Eric Toledano,9,8.6,512961
+tt1014759,Alice in Wonderland, fantasy,108,2010,2010-02-26,Tim Burton,4,6.5,309815
+tt0110357,The Lion King, musical,89,1994,1994-05-07, Rob Minkoff,6,8.5,654306
+tt0094721,Beetlejuice, fantasy,92,1988,1988-03-29,Tim Burton,5,7.5,191841
+tt0073486,One Flew Over the Cuckoo's Nest,drama,133,1975,1975-11-19,Milos Forman,7,8.7,687689
+tt1735898,Snow White and the Huntsman, fantasy,127,2012,2012-05-14,Rupert Sanders,4,6.1,231281
+tt0435761,Toy Story 3, fantasy,103,2010,2010-06-12,Lee Unkrich,8,8.3,552327
+tt0903624,The Hobbit: An Unexpected Journey, fantasy,169,2012,2012-11-28,Peter Jackson,8,7.9,643182
+tt0096895,Batman, adventure,126,1989,1989-06-19,Tim Burton,6,7.6,271916
+tt0800369,Thor, sci_fi,115,2011,2011-04-21,Kenneth Branagh,6,7.0,542652
+tt0096874,Back to the Future Part II, sci_fi,108,1989,1989-11-22,Robert Zemeckis,8,7.8,344819
+tt1568346,The Girl with the Dragon Tattoo, thriller,158,2011,2011-12-12,David Fincher,7,7.8,333659
+tt1298650,Pirates of the Caribbean: On Stranger Tides, fantasy,136,2011,2011-05-07,Rob Marshall,7,6.7,374869
+tt1119646,The Hangover,comedy,100,2009,2009-05-30,Todd Phillips,7,7.8,588342
+tt0381061,Casino Royale, thriller,144,2006,2006-11-14,Martin Campbell,6,8.0,475133
+tt0371746,Iron Man, sci_fi,126,2008,2008-04-14,Jon Favreau,7,7.9,703715
+tt0107688,The Nightmare Before Christmas, musical,76,1993,1993-10-09,Henry Selick,6,8.0,224327
+tt1074638,Skyfall, thriller,143,2012,2012-10-23,Sam Mendes,8,7.8,526853
+tt0418279,Transformers, sci_fi,144,2007,2007-06-12,Michael Bay,6,7.1,516378
+tt1276104,Looper, thriller,119,2012,2012-09-06,Rian Johnson,4,7.4,433202
+tt0375679,Crash, thriller,112,2004,2004-09-10,Paul Haggis,6,7.9,363505
+tt1285016,The Social Network, drama,120,2010,2010-09-24,David Fincher,7,7.7,485200
+tt0268978,A Beautiful Mind, drama,135,2001,2001-12-13,Ron Howard,6,8.2,619615
+tt0266543,Finding Nemo, family,100,2003,2003-05-30, Lee Unkrich,7,8.2,703034
+tt0083658,Blade Runner, thriller,117,1982,1982-06-25,Ridley Scott,6,8.2,466461
+tt0373889,Harry Potter and the Order of the Phoenix, mystery,138,2007,2007-06-28,David Yates,6,7.5,359772
+tt0304141,Harry Potter and the Prisoner of Azkaban, mystery,142,2004,2004-05-31,Alfonso Cuarón,7,7.8,387289
+tt0434409,V for Vendetta, thriller,132,2005,2005-12-11,James McTeigue,9,8.2,801460
+tt0107290,Jurassic Park, thriller,127,1993,1993-06-09,Steven Spielberg,7,8.1,622325
+tt0100405,Pretty Woman, romance,119,1990,1990-03-23,Garry Marshall,6,6.9,215772
+tt0118799,Life Is Beautiful, war,116,1997,1997-12-20,Roberto Benigni,7,8.6,426786
+tt0295297,Harry Potter and the Chamber of Secrets, mystery,161,2002,2002-11-03,Chris Columbus,6,7.4,392563
+tt0117008,Matilda, fantasy,98,1996,1996-07-28,Danny DeVito,6,6.8,89158
+tt1605783,Midnight in Paris, romance,94,2011,2011-05-11,Woody Allen,7,7.7,304289
+tt1772341,Wreck-It Ralph, sci_fi,101,2012,2012-11-01,Rich Moore,8,7.8,275706
+tt0266697,Kill Bill: Vol. 1, thriller,111,2003,2003-10-10,Quentin Tarantino,5,8.1,744687
+tt0195685,Erin Brockovich, drama,131,2000,2000-03-14,Steven Soderbergh,6,7.3,136606
+tt0095016,Die Hard, thriller,131,1988,1988-07-12,John McTiernan,6,8.2,599247
+tt0458352,The Devil Wears Prada, romance,109,2006,2006-06-29,David Frankel,6,6.8,289178
+tt0264464,Catch Me If You Can, drama,141,2002,2002-12-16,Steven Spielberg,7,8.0,536760
+tt0120616,The Mummy, fantasy,125,1999,1999-04-16,Stephen Sommers,7,7.0,319874
+tt0417741,Harry Potter and the Half-Blood Prince, mystery,153,2009,2009-07-06,David Yates,7,7.5,326324
+tt0086190,Star Wars: Episode VI - Return of the Jedi, sci_fi,131,1983,1983-05-25,Richard Marquand,7,8.4,691361
+tt0338526,Van Helsing, adventure,131,2004,2004-05-03,Stephen Sommers,4,6.0,198189
+tt0099487,Edward Scissorhands, romance,105,1990,1990-12-06,Tim Burton,5,7.9,361051
+tt0080684,Star Wars: Episode V - The Empire Strikes Back, sci_fi,124,1980,1980-05-17,Irvin Kershner,8,8.8,848576
+tt0240772,Ocean's Eleven, thriller,116,2001,2001-12-05,Steven Soderbergh,7,7.8,406483
+tt0167404,The Sixth Sense, thriller,107,1999,1999-08-02,M. Night Shyamalan,6,8.1,712366
+tt0926084,Harry Potter and the Deathly Hallows: Part 1, mystery,146,2010,2010-11-11,David Yates,7,7.7,332607
+tt1024648,Argo, thriller,120,2012,2012-08-31,Ben Affleck,7,7.7,457048
+tt0082971,Raiders of the Lost Ark, adventure,115,1981,1981-06-12,Steven Spielberg,8,8.5,668293
+tt0232500,The Fast and the Furious, thriller,106,2001,2001-06-18,Rob Cohen,7,6.7,274724
+tt0317219,Cars, sport,117,2006,2006-03-14, Joe Ranft,6,7.2,267371
+tt0382625,The Da Vinci Code, thriller,149,2006,2006-05-17,Ron Howard,5,6.6,317526
+tt0382932,Ratatouille, fantasy,111,2007,2007-06-22, Jan Pinkava,9,8.0,479514
+tt0955308,Robin Hood, romance,140,2010,2010-05-12,Ridley Scott,5,6.7,213360
+tt0440963,The Bourne Ultimatum, thriller,115,2007,2007-07-25,Paul Greengrass,6,8.1,498663
+tt0253474,The Pianist, war,150,2002,2002-05-24,Roman Polanski,7,8.5,506494
+tt0421715,The Curious Case of Benjamin Button, romance,166,2008,2008-12-10,David Fincher,4,7.8,463980
+tt1077368,Dark Shadows, horror,113,2012,2012-05-09,Tim Burton,5,6.2,201063
+tt0217505,Gangs of New York, drama,167,2002,2002-12-09,Martin Scorsese,6,7.5,317256
+tt0211915,Amélie, romance,122,2001,2001-04-25,Jean-Pierre Jeunet,5,8.4,540920
+tt0103064,Terminator 2: Judgment Day, thriller,137,1991,1991-07-01,James Cameron,6,8.5,753535
+tt0167261,The Lord of the Rings: The Two Towers, fantasy,179,2002,2002-12-05,Peter Jackson,9,8.7,1113526
+tt0259324,Ghost Rider, thriller,114,2007,2007-01-15,Mark Steven Johnson,3,5.2,184193
+tt0319262,The Day After Tomorrow, thriller,124,2004,2004-05-17,Roland Emmerich,5,6.4,336316
+tt0088247,The Terminator, sci_fi,107,1984,1984-10-26,James Cameron,6,8.1,607596
+tt0988045,Sherlock Holmes, thriller,128,2009,2009-12-24,Guy Ritchie,7,7.6,481487
+tt1748122,Moonrise Kingdom, romance,94,2012,2012-05-16,Wes Anderson,6,7.8,240758
+tt0840361,The Town, thriller,125,2010,2010-09-08,Ben Affleck,5,7.6,282810
+tt0405159,Million Dollar Baby, sport,132,2004,2004-12-05,Clint Eastwood,6,8.1,487844
+tt0087843,Once Upon a Time in America, drama,229,1984,1984-02-17,Sergio Leone,7,8.4,223876
+tt0383574,Pirates of the Caribbean: Dead Man's Chest, fantasy,151,2006,2006-06-24,Gore Verbinski,8,7.3,527191
+tt1588173,Warm Bodies, romance,98,2013,2013-01-16,Jonathan Levine,5,6.9,186366
+tt1219289,Limitless, thriller,105,2011,2011-03-08,Neil Burger,5,7.4,423794
+tt0945513,Source Code, thriller,93,2011,2011-03-11,Duncan Jones,5,7.5,384078
+tt0114709,Toy Story, fantasy,81,1995,1995-11-19,John Lasseter,7,8.3,632548
+tt0425112,Hot Fuzz, mystery,121,2007,2007-02-14,Edgar Wright,7,7.9,356387
+tt0320661,Kingdom of Heaven, war,144,2005,2005-05-02,Ridley Scott,3,7.2,219328
+tt1205489,Gran Torino,drama,116,2008,2008-12-09,Clint Eastwood,7,8.2,567503
+tt0099088,Back to the Future Part III, western,118,1990,1990-05-25,Robert Zemeckis,7,7.4,287622
+tt0368891,National Treasure, mystery,131,2004,2004-11-08,Jon Turteltaub,6,6.9,256870
+tt0413300,Spider-Man 3, adventure,139,2007,2007-04-16,Sam Raimi,4,6.2,387385
+tt0398286,Tangled, romance,100,2010,2010-11-24, Byron Howard,6,7.8,298529
+tt0198781,"Monsters, Inc.", fantasy,92,2001,2001-10-28, David Silverman,8,8.1,594290
+tt0075148,Rocky, sport,120,1976,1976-11-21,John G. Avildsen,6,8.1,380348
+tt0221027,Blow, drama,124,2001,2001-03-29,Ted Demme,6,7.6,199714
+tt0110475,The Mask, fantasy,101,1994,1994-07-29,Charles Russell,6,6.9,268857
+tt0118688,Batman & Robin,action,125,1997,1997-06-12,Joel Schumacher,3,3.7,191595
+tt0376994,X-Men: The Last Stand, thriller,104,2006,2006-05-22,Brett Ratner,5,6.8,387341
+tt0365748,Shaun of the Dead, horror,99,2004,2004-03-29,Edgar Wright,7,8.0,400007
+tt1194173,The Bourne Legacy, thriller,135,2012,2012-07-30,Tony Gilroy,5,6.7,233361
+tt0119174,The Game, thriller,129,1997,1997-09-03,David Fincher,7,7.8,264355
+tt0129387,There's Something About Mary, romance,119,1998,1998-07-15, Peter Farrelly,5,7.1,248818
+tt0327056,Mystic River, thriller,138,2003,2003-05-23,Clint Eastwood,7,8.0,341428
+tt0120735,"Lock, Stock and Two Smoking Barrels", crime,107,1998,1998-08-23,Guy Ritchie,8,8.2,419416
+tt0480249,I Am Legend, sci_fi,101,2007,2007-12-05,Francis Lawrence,5,7.2,536701
+tt0126029,Shrek, fantasy,90,2001,2001-04-22, Vicky Jenson,6,7.9,471943
+tt0103776,Batman Returns,action,126,1992,1992-06-16,Tim Burton,6,7.0,217564
+tt0948470,The Amazing Spider-Man, adventure,136,2012,2012-06-13,Marc Webb,6,7.0,455911
+tt0112462,Batman Forever, fantasy,121,1995,1995-06-09,Joel Schumacher,4,5.4,192700
+tt0449088,Pirates of the Caribbean: At World's End, fantasy,169,2007,2007-05-19,Gore Verbinski,7,7.1,476049
+tt1136608,District 9, thriller,112,2009,2009-08-13,Neill Blomkamp,5,8.0,536230
+tt1152836,Public Enemies, romance,140,2009,2009-06-18,Michael Mann,5,7.0,232746
+tt1229238,Mission: Impossible - Ghost Protocol, thriller,133,2011,2011-12-07,Brad Bird,7,7.4,368444
+tt0120591,Armageddon, thriller,151,1998,1998-06-30,Michael Bay,7,6.6,325156
+tt0496806,Ocean's Thirteen, thriller,122,2007,2007-05-24,Steven Soderbergh,5,6.9,259084
+tt0099674,The Godfather: Part III, drama,162,1990,1990-12-12,Francis Ford Coppola,5,7.6,271478
+tt1504320,The King's Speech, drama,118,2010,2010-09-06,Tom Hooper,7,8.0,510243
+tt0213149,Pearl Harbor, war,183,2001,2001-05-21,Michael Bay,6,6.1,256458
+tt1049413,Up, family,96,2009,2009-05-13, Bob Peterson,8,8.3,675667
+tt0814255,Percy Jackson & the Olympians: The Lightning Thief, fantasy,118,2010,2010-02-10,Chris Columbus,2,5.9,142578
+tt0454848,Inside Man, thriller,129,2006,2006-03-16,Spike Lee,6,7.6,275492
+tt0765429,American Gangster, drama,157,2007,2007-10-19,Ridley Scott,6,7.8,326955
+tt0800080,The Incredible Hulk, sci_fi,112,2008,2008-06-06,Louis Leterrier,6,6.8,329413
+tt1253864,Immortals, romance,110,2011,2011-11-10,Tarsem Singh Dhandwar,3,6.0,138953
+tt0808151,Angels & Demons, thriller,138,2009,2009-05-04,Ron Howard,5,6.7,210105
+tt1605630,American Reunion,comedy,113,2012,2012-04-04, Hayden Schlossberg,6,6.7,173257
+tt1637725,Ted, fantasy,106,2012,2012-06-29,Seth MacFarlane,7,7.0,475976
+tt0099785,Home Alone, family,103,1990,1990-11-10,Chris Columbus,7,7.5,314982
+tt0181689,Minority Report, thriller,145,2002,2002-06-17,Steven Spielberg,6,7.7,403953
+tt1632708,Friends with Benefits, romance,109,2011,2011-07-18,Will Gluck,5,6.6,273301
+tt1228705,Iron Man 2, sci_fi,124,2010,2010-04-26,Jon Favreau,6,7.0,528540
+tt0830515,Quantum of Solace, adventure,106,2008,2008-10-29,Marc Forster,5,6.7,333981
+tt1190080,2012, sci_fi,158,2009,2009-11-11,Roland Emmerich,5,5.8,286032
+tt0252866,American Pie 2,comedy,108,2001,2001-08-06,J.B. Rogers,6,6.4,201715
+tt0325710,The Last Samurai, war,154,2003,2003-11-22,Edward Zwick,7,7.7,319972
+tt0346491,Alexander, war,175,2004,2004-11-16,Oliver Stone,3,5.5,139878
+tt0113189,GoldenEye, thriller,130,1995,1995-11-13,Martin Campbell,7,7.2,200229
+tt0316654,Spider-Man 2, adventure,127,2004,2004-06-25,Sam Raimi,7,7.3,416673
+tt0489099,Jumper, thriller,88,2008,2008-02-06,Doug Liman,3,6.1,244827
+tt0102492,My Girl, romance,102,1991,1991-11-27,Howard Zieff,4,6.8,56412
+tt0389860,Click, romance,107,2006,2006-06-22,Frank Coraci,5,6.4,248742
+tt0993842,Hanna, thriller,111,2011,2011-04-07,Joe Wright,5,6.8,160152
+tt0102057,Hook, fantasy,142,1991,1991-12-08,Steven Spielberg,8,6.7,184521
+tt0097576,Indiana Jones and the Last Crusade, fantasy,127,1989,1989-05-24,Steven Spielberg,8,8.3,521502
+tt0107614,Mrs. Doubtfire, romance,125,1993,1993-11-24,Chris Columbus,7,6.9,183631
+tt1243957,The Tourist, thriller,103,2010,2010-12-08,Florian Henckel von Donnersmarck,4,6.0,178501
+tt0104691,The Last of the Mohicans, war,112,1992,1992-08-26,Michael Mann,7,7.8,114306
+tt1596343,Fast Five, thriller,131,2011,2011-04-15,Justin Lin,7,7.3,287308
+tt0348150,Superman Returns, sci_fi,154,2006,2006-06-21,Bryan Singer,5,6.1,241638
+tt0397892,Bolt, family,96,2008,2008-11-17, Chris Williams,6,6.9,148229
+tt0910970,WALL·E, sci_fi,98,2008,2008-06-21,Andrew Stanton,7,8.4,728918
+tt0378194,Kill Bill: Vol. 2, thriller,137,2004,2004-04-16,Quentin Tarantino,5,8.0,518050
+tt0078346,Superman, sci_fi,143,1978,1978-12-10,Richard Donner,6,7.3,127641
+tt0053125,North by Northwest, thriller,136,1959,1959-07-17,Alfred Hitchcock,8,8.4,222614
+tt0381849,3:10 to Yuma, western,122,2007,2007-08-21,James Mangold,6,7.7,239753
+tt0047396,Rear Window, thriller,112,1954,1954-08-01,Alfred Hitchcock,7,8.5,320202
+tt0970179,Hugo, romance,126,2011,2011-10-10,Martin Scorsese,5,7.5,247443
+tt0479143,Rocky Balboa, sport,102,2006,2006-12-20,Sylvester Stallone,5,7.2,163848
+tt0119094,Face/Off, thriller,138,1997,1997-06-27,John Woo,6,7.3,286138
+tt1217209,Brave, fantasy,93,2012,2012-06-10, Brenda Chapman,7,7.2,277376
+tt0119528,Liar Liar, fantasy,86,1997,1997-03-18,Tom Shadyac,5,6.8,222854
+tt0234215,The Matrix Reloaded, sci_fi,138,2003,2003-05-07, The Wachowski Brothers,6,7.2,425079
+tt1028532,Hachi: A Dog's Tale, family,93,2009,2009-06-13,Lasse Hallström,6,8.1,159201
+tt0328107,Man on Fire, thriller,146,2004,2004-04-21,Tony Scott,6,7.7,268744
+tt1340800,Tinker Tailor Soldier Spy, thriller,127,2011,2011-09-05,Tomas Alfredson,6,7.1,150477
+tt0337978,Live Free or Die Hard, thriller,128,2007,2007-06-12,Len Wiseman,7,7.2,338239
+tt0290334,X-Men 2, thriller,134,2003,2003-04-24,Bryan Singer,6,7.5,410301
+tt0094898,Coming to America, romance,116,1988,1988-06-29,John Landis,6,7.0,121469
+tt0119654,Men in Black, sci_fi,98,1997,1997-07-02,Barry Sonnenfeld,6,7.3,407361
+tt1320253,The Expendables, thriller,103,2010,2010-08-03,Sylvester Stallone,5,6.5,272752
+tt0160127,Charlie's Angels, thriller,98,2000,2000-10-22,McG,4,5.5,146286
+tt1032755,RocknRolla, thriller,114,2008,2008-09-04,Guy Ritchie,8,7.3,196137
+tt0399201,The Island, thriller,136,2005,2005-07-11,Michael Bay,5,6.9,264908
+tt0086960,Beverly Hills Cop, crime,105,1984,1984-12-01,Martin Brest,6,7.3,127847
+tt0111282,Stargate, sci_fi,116,1994,1994-10-28,Roland Emmerich,5,7.1,149895
+tt1399103,Transformers: Dark of the Moon, sci_fi,154,2011,2011-06-23,Michael Bay,4,6.3,328516
+tt0070735,The Sting, drama,129,1973,1973-12-25,George Roy Hill,8,8.3,177737
+tt0351283,Madagascar, family,86,2005,2005-05-25, Tom McGrath,7,6.9,270170
+tt0317740,The Italian Job, thriller,111,2003,2003-05-30,F. Gary Gray,5,7.0,287906
+tt1515091,Sherlock Holmes: A Game of Shadows, thriller,129,2011,2011-12-10,Guy Ritchie,8,7.5,341821
+tt0278504,Insomnia, thriller,118,2002,2002-05-03,Christopher Nolan,7,7.2,221006
+tt0117500,The Rock, thriller,136,1996,1996-06-07,Michael Bay,7,7.4,261349
+tt0349903,Ocean's Twelve, thriller,125,2004,2004-12-08,Steven Soderbergh,4,6.4,287323
+tt0097428,Ghostbusters II, sci_fi,108,1989,1989-06-16,Ivan Reitman,6,6.5,141908
+tt0187078,Gone in Sixty Seconds, thriller,118,2000,2000-06-05,Dominic Sena,6,6.5,219929
+tt1645170,The Dictator, romance,83,2012,2012-05-16,Larry Charles,6,6.4,216270
+tt0118880,Con Air, thriller,115,1997,1997-06-02,Simon West,6,6.8,226913
+tt0441773,Kung Fu Panda, family,92,2008,2008-05-15, John Stevenson,7,7.6,310840
+tt0369339,Collateral, thriller,120,2004,2004-08-02,Michael Mann,6,7.6,296068
+tt1037705,The Book of Eli, thriller,118,2010,2010-01-11, The Hughes Brothers,6,6.9,229599
+tt0938283,The Last Airbender, fantasy,103,2010,2010-06-30,M. Night Shyamalan,3,4.2,119811
+tt0453467,Deja Vu, thriller,126,2006,2006-11-20,Tony Scott,6,7.0,244302
+tt1193138,Up in the Air, romance,109,2009,2009-09-05,Jason Reitman,6,7.4,271912
+tt0087469,Indiana Jones and the Temple of Doom, adventure,118,1984,1984-05-08,Steven Spielberg,8,7.6,333949
+tt0120762,Mulan, war,88,1998,1998-06-05, Barry Cook,6,7.5,174249
+tt0429493,The A-Team, thriller,117,2010,2010-06-03,Joe Carnahan,6,6.8,212924
+tt0117060,Mission: Impossible, thriller,110,1996,1996-05-20,Brian De Palma,8,7.1,303711
+tt0107818,Philadelphia, romance,125,1993,1993-12-22,Jonathan Demme,7,7.7,180298
+tt0094226,The Untouchables, thriller,119,1987,1987-06-02,Brian De Palma,8,7.9,221064
+tt0317919,Mission: Impossible III, thriller,126,2006,2006-04-24,J.J. Abrams,6,6.9,259446
+tt0438488,Terminator Salvation, sci_fi,115,2009,2009-05-14,McG,6,6.6,288209
+tt0095953,Rain Man,drama,133,1988,1988-12-12,Barry Levinson,6,8.0,386570
+tt0120623,A Bug's Life, fantasy,95,1998,1998-11-14, Andrew Stanton,6,7.2,213246
+tt0352248,Cinderella Man, sport,144,2005,2005-05-23,Ron Howard,7,8.0,149375
+tt0259711,Vanilla Sky, thriller,136,2001,2001-12-10,Cameron Crowe,4,6.9,208145
+tt0097733,Lethal Weapon 2, thriller,114,1989,1989-07-07,Richard Donner,6,7.2,128968
+tt0109040,Ace Ventura: Pet Detective,comedy,86,1994,1994-02-04,Tom Shadyac,5,6.9,218647
+tt0106519,Carlito's Way, drama,144,1993,1993-11-07,Brian De Palma,6,7.9,164335
+tt0328828,American Wedding, romance,96,2003,2003-07-24,Jesse Dylan,6,6.3,163541
+tt0112442,Bad Boys, thriller,119,1995,1995-04-07,Michael Bay,6,6.8,174223
+tt0275847,Lilo & Stitch, sci_fi,85,2002,2002-06-16, Chris Sanders,6,7.2,118918
+tt0408306,Munich, thriller,164,2005,2005-12-23,Steven Spielberg,6,7.6,178217
+tt0242653,The Matrix Revolutions, sci_fi,129,2003,2003-10-27, The Wachowski Brothers,6,6.7,367917
+tt0181852,Terminator 3: Rise of the Machines, sci_fi,109,2003,2003-06-30,Jonathan Mostow,4,6.4,308197
+tt0096438,Who Framed Roger Rabbit, mystery,104,1988,1988-06-21,Robert Zemeckis,7,7.7,142159
+tt0120891,Wild Wild West, western,106,1999,1999-06-30,Barry Sonnenfeld,4,4.8,130571
+tt0822832,Marley & Me, family,115,2008,2008-12-25,David Frankel,6,7.1,117864
+tt1616195,J. Edgar, romance,137,2011,2011-11-03,Clint Eastwood,5,6.6,103687
+tt1055369,Transformers: Revenge of the Fallen, sci_fi,150,2009,2009-06-19,Michael Bay,6,6.0,325462
+tt0120363,Toy Story 2, fantasy,92,1999,1999-11-13, Ash Brannon,7,7.9,390253
+tt0298148,Shrek 2, romance,93,2004,2004-05-15, Kelly Asbury,7,7.2,318038
+tt0099423,Die Hard 2, thriller,124,1990,1990-07-02,Renny Harlin,6,7.1,272256
+tt0172156,Bad Boys II, thriller,147,2003,2003-07-09,Michael Bay,6,6.6,179692
+tt0064115,Butch Cassidy and the Sundance Kid, western,110,1969,1969-09-23,George Roy Hill,6,8.1,154006
+tt0119008,Donnie Brasco, drama,127,1997,1997-02-28,Mike Newell,6,7.8,227050
+tt0268380,Ice Age, family,81,2002,2002-03-12, Carlos Saldanha,7,7.6,331523
+tt0094291,Wall Street, drama,126,1987,1987-12-11,Oliver Stone,6,7.4,120064
+tt0425061,Get Smart, comedy,110,2008,2008-06-19,Peter Segal,6,6.5,169199
+tt0119567,The Lost World: Jurassic Park, sci_fi,129,1997,1997-05-19,Steven Spielberg,6,6.5,281770
+tt0817230,Valentine's Day, romance,125,2010,2010-02-05,Garry Marshall,4,5.7,96066
+tt0120744,The Man in the Iron Mask, adventure,132,1998,1998-03-13,Randall Wallace,5,6.5,126581
+tt0985699,Valkyrie, war,121,2008,2008-12-25,Bryan Singer,5,7.1,185121
+tt0111257,Speed, thriller,116,1994,1994-06-10,Jan de Bont,4,7.2,263135
+tt0879870,Eat Pray Love, romance,133,2010,2010-08-13,Ryan Murphy,5,5.7,64303
+tt0122151,Lethal Weapon 4, thriller,127,1998,1998-07-10,Richard Donner,5,6.6,128547
+tt0117705,Space Jam, sport,88,1996,1996-11-10,Joe Pytka,6,6.3,113440
+tt0241303,Chocolat, romance,121,2000,2000-12-15,Lasse Hallström,6,7.3,151390
+tt1611224,Abraham Lincoln: Vampire Hunter, horror,105,2012,2012-06-18,Timur Bekmambetov,5,5.9,129577
+tt1411697,The Hangover Part II, mystery,102,2011,2011-05-19,Todd Phillips,5,6.5,379420
+tt0396555,Meet the Robinsons, sci_fi,95,2007,2007-03-23,Stephen Anderson,5,6.9,67769
+tt0120755,Mission: Impossible II, thriller,123,2000,2000-05-24,John Woo,6,6.1,244654
+tt0253556,Reign of Fire, thriller,101,2002,2002-07-09,Rob Bowman,3,6.2,108586
+tt0471042,Tower Heist, crime,104,2011,2011-10-24,Brett Ratner,5,6.2,110908
+tt1458175,The Next Three Days, thriller,133,2010,2010-11-09,Paul Haggis,6,7.4,147676
+tt0163025,Jurassic Park III, thriller,92,2001,2001-07-16,Joe Johnston,4,5.9,222028
+tt0990407,The Green Hornet, thriller,119,2011,2011-01-12,Michel Gondry,4,5.8,136893
+tt1057500,Invictus, sport,134,2009,2009-12-03,Clint Eastwood,6,7.4,125465
+tt0859163,The Mummy: Tomb of the Dragon Emperor, thriller,112,2008,2008-07-24,Rob Cohen,2,5.2,119017
+tt0112864,Die Hard with a Vengeance, thriller,128,1995,1995-05-15,John McTiernan,7,7.6,301621
+tt1667889,Ice Age: Continental Drift, fantasy,88,2012,2012-06-26, Michael Thurmeier,6,6.6,147078
+tt0112281,Ace Ventura: When Nature Calls, comedy,90,1995,1995-11-10,Steve Oedekerk,4,6.3,161933
+tt0486576,Fantastic Four: Rise of the Silver Surfer, thriller,92,2007,2007-06-12,Tim Story,2,5.6,214798
+tt0449010,Eragon, fantasy,104,2006,2006-12-13,Stefen Fangmeier,1,5.1,108682
+tt0395169,Hotel Rwanda, war,121,2004,2004-09-11,Terry George,8,8.1,267424
+tt0183649,Phone Booth, thriller,81,2002,2002-09-10,Joel Schumacher,6,7.1,209831
+tt1068680,Yes Man, romance,104,2008,2008-12-09,Peyton Reed,5,6.8,273954
+tt0104714,Lethal Weapon 3, thriller,118,1992,1992-05-11,Richard Donner,5,6.7,129144
+tt0290002,Meet the Fockers, romance,115,2004,2004-12-16,Jay Roach,6,6.3,212928
+tt0277027,I Am Sam,drama,132,2001,2001-12-03,Jessie Nelson,6,7.6,122820
+tt0486822,Disturbia, thriller,105,2007,2007-04-04,D.J. Caruso,5,6.9,188349
+tt0083987,Gandhi, drama,191,1982,1982-11-30,Richard Attenborough,7,8.1,173720
+tt0244244,Swordfish, thriller,99,2001,2001-06-04,Dominic Sena,6,6.5,156435
+tt1013753,Milk, romance,128,2008,2008-10-28,Gus Van Sant,6,7.6,137764
+tt0145681,The Bone Collector, thriller,118,1999,1999-08-29,Phillip Noyce,7,6.7,121404
+tt1027718,Wall Street: Money Never Sleeps,drama,133,2010,2010-05-14,Oliver Stone,5,6.3,84732
+tt0086465,Trading Places,comedy,116,1983,1983-06-08,John Landis,7,7.5,103782
+tt0960144,You Don't Mess with the Zohan, comedy,113,2008,2008-06-06,Dennis Dugan,4,5.5,157490
+tt0983193,The Adventures of Tintin, mystery,107,2011,2011-10-23,Steven Spielberg,7,7.4,178608
+tt0413267,Shrek the Third, fantasy,93,2007,2007-05-06, Raman Hui,4,6.1,214131
+tt0277296,The Scorpion King, thriller,92,2002,2002-04-15,Chuck Russell,6,5.5,103101
+tt0963966,The Sorcerer's Apprentice, fantasy,109,2010,2010-07-06,Jon Turteltaub,2,6.1,125289
+tt0097523,"Honey, I Shrunk the Kids", sci_fi,93,1989,1989-06-23,Joe Johnston,5,6.3,108264
+tt0120912,Men in Black II, sci_fi,88,2002,2002-07-03,Barry Sonnenfeld,6,6.1,271838
+tt0104431,Home Alone 2: Lost in New York, family,120,1992,1992-11-15,Chris Columbus,7,6.6,203005
+tt0046912,Dial M for Murder, thriller,105,1954,1954-05-18,Alfred Hitchcock,7,8.2,108053
+tt0212338,Meet the Parents,comedy,108,2000,2000-10-06,Jay Roach,6,7.0,262441
+tt2076251,The Worst Week of My Life,comedy,93,2011,2011-10-28,Alessandro Genovesi,4,5.7,789
+tt2550838,The Worst Christmas of My Life,comedy,86,2012,2012-11-22,Alessandro Genovesi,5,5.2,550
