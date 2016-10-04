@@ -112,7 +112,7 @@ movie_genre_freq$movie_genre <- factor(movie_genre_freq$movie_genre, levels = mo
 
 In order to plot the frequencies in descending order, was necessary to sort the levels of the factor, based on the frequency.
 
-```{r 3.3, echo = TRUE, message = FALSE}
+```{r 3.3, echo = TRUE}
 ## P1: Number of movies by genre
 p1 <- ggplot(data = movie_genre_freq, aes(x = movie_genre, y = movie_freq, label = movie_freq, fill = movie_genre)) + 
   geom_bar(stat = "identity") + geom_text(nudge_y = 4.5) + coord_flip() +
@@ -130,7 +130,7 @@ plot(p1)
 
 From this plot we can see that the most seen movie genre is **Thriller**, followed by **SciFi** and **Fantasy/Romance**. The least seen movie genre is **History**. It appears that "pure" **Action** movies are rare, meaning that most of the action movies are categorized with another "main" genre. 
 
-```{r 3.4, echo = TRUE, message = FALSE}
+```{r 3.4, echo = TRUE}
 # P2: Show the correlation between IMDb ratings and personal ratings
 p2 <- ggplot(data = data, aes(x = rating_IMDb, y = rating_personal, colour = rating_personal)) + geom_jitter() +
   scale_y_continuous(limits = c(1,10), breaks = c(1,3,5,7,9)) +
