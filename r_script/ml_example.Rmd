@@ -20,7 +20,7 @@ For further information about the project, read [here](https://github.com/MarioC
 
 ## Problems with the dataset
 
-The first problem we have faced was the extension of the IMDb database. It is composed of **.list** files which cannot be read and transformed as normal **.csv** files. For the purpose of this exercise we used a subset of movies from IMDb, downloaded from the personal page of one of us, which contains only few variables and few observation.
+The first problem we have faced was the extension of the IMDb database. It is composed of **.list** files which cannot be read and transformed as normal **.csv** files. For the purpose of this exercise we used a subset of movies from IMDb, downloaded from the personal page of one of us, which contains only few variables and few observation. We spent far too many hours understanding how to read **.list** files, for that reason maybe we have neglected a little bit the scripting part, trying to find a way to work with IMDb database.
 
 ---
 
@@ -85,7 +85,12 @@ str(data)
 For further analysis and exploration we have used the cleansed dataset. Above there is the structure of the data frame. The newly cleansed dataset weights **42KB** and has **507 observation** and **10 variables**.
 
 ``` {r 2.2, echo = TRUE, message = FALSE}
+movie_runtime_genre <- data %>%
+  group_by(movie_genre) %>%
+  summarise(mean = mean(movie_runtime))
 ```
+
+Just to do an exploratory analysis, we were curious to see the average **movie runtime** for each genre and we have discovered that **Adventure movies** have the highest average runtime (*163 min*), while the **Family movies** have the lowest one (*97 min*).
 
 ---
 
