@@ -67,11 +67,17 @@ __Function:SentimentAnalysis__ | Create a function to perform a **Sentiment Anal
 
 #### Programming language used
 
-We choose to use R as programming language for this project, in combination with the following additional packages:
+We choose to use **R** as programming language for this project, in combination with the following additional packages:
 
 * __Data Importing__: `readr`, `RSQLite`
 * __Data Manipulation__: `dplyr`
 * __Data Visualization__: `ggplot2`
+
+To convert the dataset from IMDb we will probably use **Python** with the following package:
+
+* __Data Transformation__: `imdbpy`
+
+[__imdbpy__](http://imdbpy.sourceforge.net) should be able to extract the **.list** file and convert it into a **.csv** file.
 
 ## Functions
 
