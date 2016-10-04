@@ -56,7 +56,7 @@ The purpose of the project is to develop a tool which helps the user in choosing
 
 Goal | Description | Status
 --- | --- | ---
-__Import__ | Import the following dataset: **actors.csv**, **actresses.csv**, **directors.csv**, **editors.csv**, **genres.csv**, **movies.csv**, **plots.csv**, **running-time.csv** | 30%
+__Import__ | Import the following dataset: **actors.list**, **actresses.list**, **directors.list**, **editors.list**, **genres.list**, **movies.list**, **plots.list**, **running-time.list** | 10%
 __Cleansing__ | Clean the dataset | 0%
 __Create DB__ | Create a **SQLite DB** containing the data used by the algorithms | 0%
 __DB Analysis__ | Analyze data and crete some descriptive statistics reports | 0%
@@ -124,6 +124,13 @@ The data is downloaded from the [IMDb website](http://www.imdb.com/interfaces), 
 
 In the initial stage of the project the dataset used so far are the following ones:
 
-Dataset | Size | Records | Variables
---- | --- | --- | ---
-__actors.csv__ | 1.14GB | 20.152.897 | 
+Dataset | Size | Records
+--- | --- | ---
+__actors.list__ | 1.14GB | 20.152.897
+__actressess.list__ | 687MB | 12.097.863
+__directors.list__ | 120MB | 3.043.694
+__editors.list__ | 87MB | 2.086.225
+__genres.list__ | 89MB | 2.353.809
+__movies.list__ | 188MB | 3.955.400
+__plot.list__ | 402MB | 7.626.679
+__running-times.list__ | 56MB | 1.313.544
